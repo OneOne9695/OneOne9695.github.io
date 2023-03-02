@@ -1,2 +1,2 @@
-# OneOne9695.github.io
+# github pages
 blog
